@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devmeherab
-- 👀 I’m interested in web developar
-- 🌱 I’m currently learning python
+- 👀 I’m interested in app developar
+- 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
